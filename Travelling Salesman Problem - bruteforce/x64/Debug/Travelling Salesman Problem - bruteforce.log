@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\anton\Documents\GitHub\Travelling Salesman Problem - bruteforce\Travelling Salesman Problem - bruteforce\main.cpp(57,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Travelling Salesman Problem - bruteforce.vcxproj -> C:\Users\anton\Documents\GitHub\Travelling Salesman Problem - bruteforce\x64\Debug\Travelling Salesman Problem - bruteforce.exe
